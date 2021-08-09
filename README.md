@@ -1,3 +1,3 @@
 # my_first_site
 
-[пример](http://example.com/ "Необязательная подсказка")
+[мой сайт](http://nr2z8666.beget.tech/)
